@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tech Support</string>
+
+    <string-array name="status_array">
+        <item>Новая</item>
+        <item>В работе</item>
+        <item>Ожидает ответа</item>
+        <item>Закрыта</item>
+    </string-array>
+
+    <string-array name="priority_array">
+        <item>Низкий</item>
+        <item>Средний</item>
+        <item>Высокий</item>
+        <item>Критический</item>
+    </string-array>
+</resources>
